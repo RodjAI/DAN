@@ -312,6 +312,3 @@ Preview:
 </details>
 </li>
 </ul>
-
-## Example after entering the "ChatGPT DevMode + Ranti PROMPT"
-![image](https://user-images.githubusercontent.com/47383452/225237856-1be52b9a-3268-43de-b6f5-f77de6ea015d.png)
