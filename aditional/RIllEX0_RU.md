@@ -1,6 +1,6 @@
 # 📌 Обход правил OpenAI для ChatGPT
 
-Здесь также имеется **Английская** версия: [English version](https://github.com/hasji/dan/blob/main/RIllEX0.md)
+Здесь также имеется **Английская** версия: [English version](https://raw.githubusercontent.com/Hasji/DAN/main/aditional/RIllEX0.md)
 
 ---
 

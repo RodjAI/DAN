@@ -1,6 +1,6 @@
 # 📌 Bypass OpenAI rules for ChatGPT
 
-Theres also **Russian** version: [Русская версия](https://github.com/hasji/dan/blob/main/RIllEX0_RU.md)
+Theres also **Russian** version: [Русская версия](https://raw.githubusercontent.com/Hasji/DAN/main/aditional/RIllEX0_RU.md)
 
 ---
 
