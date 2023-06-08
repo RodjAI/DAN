@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name            ChatGPT DAN
-// @icon            https://raw.githubusercontent.com/madkarmaa/automatic-chatgpt-dan/master/images/icon.png
+// @icon            https://raw.githubusercontent.com/hasji/dan/master/images/icon.png
 // @namespace       2df9d1c998bc7e6b33e6e00a19977c4e080ec10d4db8a4f4e09d6076b2e6c864s
 // @source          https://github.com/Hasji/DAN
 // @supportURL      https://github.com/Hasji/DAN
 // @updateURL       https://raw.githubusercontent.com/Hasji/DAN/main/DAN.js
 // @downloadURL     https://raw.githubusercontent.com/Hasji/DAN/main/DAN.js
-// @version         3.6.2
+// @version         4.0.1
 // @description     Remove filters and limitations from ChatGPT
-// @author          Rodj#3666
+// @author          RodjAI#3666
 // @match           *://chat.openai.com/*
 // @require         https://raw.githubusercontent.com/Hasji/DAN/main/resources/colors.js
 // @require         https://code.jquery.com/jquery-3.6.4.min.js
